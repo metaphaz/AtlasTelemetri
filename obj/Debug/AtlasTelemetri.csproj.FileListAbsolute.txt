@@ -1,0 +1,13 @@
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\bin\Debug\AtlasTelemetri.exe.config
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\bin\Debug\AtlasTelemetri.exe
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\bin\Debug\AtlasTelemetri.pdb
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\obj\Debug\AtlasTelemetri.csproj.AssemblyReference.cache
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\obj\Debug\AtlasTelemetri.csproj.SuggestedBindingRedirects.cache
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\obj\Debug\AtlasTelemetri.Form1.resources
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\obj\Debug\AtlasTelemetri.Properties.Resources.resources
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\obj\Debug\AtlasTelemetri.csproj.GenerateResource.cache
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\obj\Debug\AtlasTelemetri.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\obj\Debug\AtlasTelemetri.exe
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\obj\Debug\AtlasTelemetri.pdb
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\obj\Debug\AtlasTelemetri.agekle.resources
+C:\Users\yigit\source\repos\AtlasTelemetri\AtlasTelemetri\obj\Debug\AtlasTelemetri.exe.manifest

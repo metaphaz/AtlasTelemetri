@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AtlasTelemetri.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="token1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">123</Value>
+    </Setting>
+    <Setting Name="token2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Boş</Value>
+    </Setting>
+    <Setting Name="token3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Boş</Value>
+    </Setting>
+    <Setting Name="token4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Boş</Value>
+    </Setting>
+    <Setting Name="token5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Boş</Value>
+    </Setting>
+    <Setting Name="pathmp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Seçiniz...</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
